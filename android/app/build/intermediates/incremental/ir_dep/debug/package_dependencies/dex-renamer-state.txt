@@ -1,0 +1,4 @@
+#Fri Jul 19 01:23:40 BRT 2019
+base.0=E\:\\Sistemas\\jokenpo\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
